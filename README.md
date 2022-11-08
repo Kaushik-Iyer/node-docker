@@ -14,3 +14,4 @@ A project made to learn and explore various commands and methods used in Docker 
 
 -Using watchtower to automate the pulling from dockerhub or github in the production environment, on the event of any file updating in the development environment
 
+-Navigating and using different features of the digital ocean CLI
